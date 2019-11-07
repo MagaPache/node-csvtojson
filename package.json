@@ -1,0 +1,14 @@
+{
+  "name": "csv-to-json",
+  "version": "1.0.0",
+  "description": "Format and convert CSV to JSON",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Magali Pacheco",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^4.6.5"
+  }
+}
